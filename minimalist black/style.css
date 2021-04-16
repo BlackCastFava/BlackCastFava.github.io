@@ -1,6 +1,6 @@
 /*BEGIN GameCube Controller Styling*/
 .controller.gc {
-    background: url(base.png) no-repeat;
+    background: url(base full fill.png) no-repeat;
     height: 837px;
     width: 978px;
 }
