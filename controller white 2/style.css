@@ -9,7 +9,8 @@
     width: 775px;
     height: 95px;
     position: absolute;
-    left: 102px;
+    left: 112px;
+	top: 31px;
 }
 
 .gc .trigger {
@@ -39,8 +40,8 @@
     position: absolute;
     width: 792px;
     height: 73px;
-    left: 103px;
-    top: 138px;
+    left: 114px;
+    top: 168px;
 }
 
 .gc .bumper.pressed {
@@ -51,7 +52,6 @@
     /* -webkit-transform: rotateY(180deg); */
     /* transform: rotateY(180deg); */
     float: left;
-    display: none;
 }
 
 .gc .bumper.right {
@@ -71,14 +71,6 @@ background-position: 0 -49px;
 background-position: 0 -70px;
 }*/
 
-.gc .arrows {
-    position: absolute;
-    width: 50px;
-    height: 50px;
-    top: 324px;
-    left: 465px;
-}
-
 .gc .back, .gc .start {
     width: 43px;
     height: 43px;
@@ -87,6 +79,8 @@ background-position: 0 -70px;
     border: solid 4.5px rgba(0, 0, 0, .65);
     background-clip: content-box;
     opacity: 0;
+	top: 424px;
+    left: 525px;
 }
 
 .gc .back.pressed, .gc .start.pressed {
@@ -107,8 +101,8 @@ background-position: 0 -70px;
     position: absolute;
     width: 288px;
     height: 230px;
-    top: 207px;
-    left: 640px;
+    top: 238px;
+    left: 650px;
 }
 
 .gc .button {
@@ -157,8 +151,8 @@ background-position: 0 -70px;
     position: absolute;
     width: 628px;
     height: 392px;
-    top: 258px;
-    left: 106px;
+    top: 289px;
+    left: 116px;
 }
 
 .gc .stick {
@@ -193,8 +187,8 @@ background-position: 0 -70px;
     position: absolute;
     width: 130px;
     height: 130px;
-    top: 497px;
-    left: 263px;
+    top: 527px;
+    left: 274px;
 }
 
 .gc .face {
