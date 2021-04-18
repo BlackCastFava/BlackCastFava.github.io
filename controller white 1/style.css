@@ -71,14 +71,6 @@ background-position: 0 -49px;
 background-position: 0 -70px;
 }*/
 
-.gc .start {
-    position: absolute;
-    width: 50px;
-    height: 50px;
-    top: 424px;
-    left: 525px;
-}
-
 .gc .back, .gc .start {
     width: 43px;
     height: 43px;
@@ -87,6 +79,8 @@ background-position: 0 -70px;
     border: solid 4.5px rgba(0, 0, 0, .65);
     background-clip: content-box;
     opacity: 0;
+	top: 424px;
+    left: 525px;
 }
 
 .gc .back.pressed, .gc .start.pressed {
