@@ -41,7 +41,7 @@
     width: 792px;
     height: 73px;
     left: 123px;
-    top: 158px;
+    top: 168px;
 }
 
 .gc .bumper.pressed {
@@ -76,8 +76,8 @@ background-position: 0 -70px;
     position: absolute;
     width: 50px;
     height: 50px;
-    top: 354px;
-    left: 485px;
+    top: 384px;
+    left: 505px;
 }
 
 .gc .back, .gc .start {
@@ -108,7 +108,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 288px;
     height: 230px;
-    top: 217px;
+    top: 227px;
     left: 650px;
 }
 
@@ -158,7 +158,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 628px;
     height: 392px;
-    top: 268px;
+    top: 288px;
     left: 116px;
 }
 
@@ -194,8 +194,8 @@ background-position: 0 -70px;
     position: absolute;
     width: 130px;
     height: 130px;
-    top: 517px;
-    left: 283px;
+    top: 527px;
+    left: 273px;
 }
 
 .gc .face {
