@@ -40,7 +40,7 @@
     position: absolute;
     width: 792px;
     height: 73px;
-    left: 123px;
+    left: 120px;
     top: 168px;
 }
 
@@ -75,8 +75,8 @@ background-position: 0 -70px;
     position: absolute;
     width: 50px;
     height: 50px;
-    top: 384px;
-    left: 505px;
+    top: 414px;
+    left: 525px;
 }
 
 .gc .back, .gc .start {
@@ -107,7 +107,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 288px;
     height: 230px;
-    top: 227px;
+    top: 230px;
     left: 650px;
 }
 
@@ -157,7 +157,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 628px;
     height: 392px;
-    top: 288px;
+    top: 289px;
     left: 116px;
 }
 
@@ -194,7 +194,7 @@ background-position: 0 -70px;
     width: 130px;
     height: 130px;
     top: 527px;
-    left: 273px;
+    left: 274px;
 }
 
 .gc .face {
