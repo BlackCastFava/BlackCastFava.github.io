@@ -40,7 +40,7 @@
     position: absolute;
     width: 792px;
     height: 73px;
-    left: 115px;
+    left: 114px;
     top: 168px;
 }
 
@@ -71,12 +71,12 @@ background-position: 0 -49px;
 background-position: 0 -70px;
 }*/
 
-.gc .arrows {
+.gc .start {
     position: absolute;
     width: 50px;
     height: 50px;
-    top: 524px;
-    left: 625px;
+    top: 424px;
+    left: 525px;
 }
 
 .gc .back, .gc .start {
